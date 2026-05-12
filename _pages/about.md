@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am an astrobiologist and biochemist studying microbial life in extreme environments and its implications for the detection of biosignatures on other planets. My research focuses on extremophile microbial communities from the Atacama Desert and their potential spectral and biochemical signatures in planetary atmospheres.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I obtained my degree in Biochemistry from the Pontificia Universidad Católica de Chile and a Master's degree in Astronomy with a specialization in Astrobiology from the Universidad de Antofagasta. I am currently a PhD student in Astronomy and Planetary Science at the Universidad de Atacama.
+
+My work combines microbiology, spectroscopy, and planetary science to understand how microbial ecosystems interact with planetary environments and how these interactions could be detected remotely on exoplanets.
+
+Beyond research, I am actively involved in science communication and initiatives aimed at decentralizing science in northern Chile and promoting the participation of women in astronomy and astrobiology.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
