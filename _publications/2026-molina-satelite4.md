@@ -3,7 +3,6 @@ title: "Brightness evolution of LEO Starlink mega-constellation satellites from 
 collection: publications
 category: manuscript
 permalink: /publication/2026-molina-satelite4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2026-03-25
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://doi.org/10.1093/mnras/stag552'
