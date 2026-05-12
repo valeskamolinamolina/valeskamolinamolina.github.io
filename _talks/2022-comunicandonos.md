@@ -12,4 +12,4 @@ location: "Online, Chile"
 
 I presented our book of inclusive short stories in astronomy and astrobiology with focus in deaf communities.
 
-[Download certificate](/files/RED_MOLINA_VALESKA.pdf)
+[Download certificate](/files/comunicandonos.pdf)
