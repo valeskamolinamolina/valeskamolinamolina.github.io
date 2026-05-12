@@ -1,7 +1,7 @@
 ---
 title: "Exploring extremophile gas production as a biomarker for early Earth atmospheres"
 collection: publications
-category: conferences
+category: manuscript
 permalink: /publication/2026-molina-biosignature
 date: 2026-02-23
 venue: 'International Journal of Astrobiology '
