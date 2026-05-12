@@ -1,5 +1,5 @@
 ---
-title: "PFirst observations and magnitude measurement of Starlink’s Darksat"
+title: "First observations and magnitude measurement of Starlink’s Darksat"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-molina-satelite22
