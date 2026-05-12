@@ -1,6 +1,26 @@
 var addressPoints = [
   [
+    "The Atacama Desert as an Analogue Environment to Atmospheres of Rocky Exoplanets<br />Workshop CeBiB; Online, Chile",
+    -33.4395505,
+    -70.6511137
+  ],
+  [
+    "El Desierto de Atacama como An\u00e1logo a Exoplanetas Rocosos<br />Astrobiology Course; Online, Mexico",
+    19.2918751,
+    -99.6687745
+  ],
+  [
     "Interaction of Human Platelets with E.coli Strains Increases platelet Procoagulant Activity, Thrombin generation and Adhesion to Endothelial Cells<br />Sociedad Chilena de Biolog\u00eda; Puerto Varas, Chile",
+    -41.317802,
+    -72.9829073
+  ],
+  [
+    "The Atacama Desert as an Analogue Environment to Atmospheres of Rocky Exoplanets<br />Astrobiology Course; Online, France",
+    43.5904719,
+    3.8595132
+  ],
+  [
+    "Caracterizaci\u00f3n histological y celular del tejido de manto de abal\u00f3n rojo (Haliotis rufescens)<br />Sociedad Chilena de Biolog\u00eda; Puerto Varas, Chile",
     -41.317802,
     -72.9829073
   ],
