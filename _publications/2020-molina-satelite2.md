@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "PFirst observations and magnitude measurement of Starlink’s Darksat"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-molina-satelite22
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+date: 2020-04
+venue: ' 	A&A '
+paperurl: 'https://doi.org/10.1051/0004-6361/202037958 '
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
