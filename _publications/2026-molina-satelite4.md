@@ -1,7 +1,7 @@
 ---
 title: "Brightness evolution of LEO Starlink mega-constellation satellites from 2021 to 2023: A multi-year ground-based photometric study"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2026-molina-satelite4
 date: 2026-03-25
 venue: 'Monthly Notices of the Royal Astronomical Society'
