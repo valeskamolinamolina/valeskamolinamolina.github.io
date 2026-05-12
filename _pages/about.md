@@ -14,7 +14,6 @@ My work combines microbiology, spectroscopy, and planetary science to understand
 
 Beyond research, I am actively involved in science communication and initiatives aimed at decentralizing science in northern Chile and promoting the participation of women in astronomy and astrobiology.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
