@@ -1,7 +1,7 @@
 ---
 title: "Interaction of Human Platelets with E.coli Strains Increases platelet Procoagulant Activity, Thrombin generation and Adhesion to Endothelial Cells"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/2015-plaqueta
 venue: "Sociedad Chilena de Biología"
 date: 2015-10-01
