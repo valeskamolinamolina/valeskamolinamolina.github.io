@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Astronomy, major in Astrobiology, Universidad de Antofagasta, Antofagasta, Chile, 2022
+* B.S. in Biochemistry, Pontificia Universidad Católica de Chile, Santiago, 2016
 
 Work experience
 ======
