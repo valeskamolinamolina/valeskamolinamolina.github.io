@@ -15,6 +15,11 @@ var addressPoints = [
     -72.9829073
   ],
   [
+    "COMUNIC\u00c1NDONOS: Secretos de las ciencias extremas.Laboratorio Virtual de Comunicaci\u00f3n y Lenguaje<br />IV ENCUENTRO INTERNACIONAL DE LA RED IBEROAMERICANA DE ESTUDIOS INTERCULTURALES E INTERDISCIPLINARIOS NODO CHILE; Online, Chile",
+    -33.4395505,
+    -70.6511137
+  ],
+  [
     "The Atacama Desert as an Analogue Environment to Atmospheres of Rocky Exoplanets<br />Astrobiology Course; Online, France",
     43.5904719,
     3.8595132
@@ -38,5 +43,10 @@ var addressPoints = [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
+  ],
+  [
+    "Extremophile microorganisms: a pioneering approach to biosignature detection<br />Origins 2023; Quito, Ecuador",
+    -0.2201641,
+    -78.5123274
   ]
 ];
