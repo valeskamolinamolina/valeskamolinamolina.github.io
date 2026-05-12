@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Interaction of Human Platelets with E.coli Strains Increases platelet Procoagulant Activity, Thrombin generation and Adhesion to Endothelial Cells<br />Sociedad Chilena de Biolog\u00eda; Puerto Varas, Chile",
+    -41.317802,
+    -72.9829073
   ],
   [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
