@@ -9,4 +9,4 @@ location: "Puerto Varas, Chile"
 ---
 
 
-This work was conducted during my undergraduate research unit 296 in Biochemistry (PUC) and was supported by Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT) research project
+This work was conducted during my undergraduate research unit 296 in Biochemistry (PUC) and was supported by Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT) research project 
