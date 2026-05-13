@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download CV
+======
+* Download the short CV: /files/Valeska_Molina_CV.pdf
 
 Education
 ======
