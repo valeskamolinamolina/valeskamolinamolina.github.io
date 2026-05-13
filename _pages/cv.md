@@ -11,35 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D(c) in Astronomy and Planetary Science, Universidad de Atacama, Copiapó, Chile (in progress)
 * M.S. in Astronomy, major in Astrobiology, Universidad de Antofagasta, Antofagasta, Chile, 2022
 * B.S. in Biochemistry, Pontificia Universidad Católica de Chile, Santiago, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Regional Ministerial Secretary of Science (SEREMI CTCI), Chile (2025–2026)
+  * Ministerio de Ciencias, Chile
+  * Government-appointed regional authority responsible for implementing national science policy. Led
+strategic initiatives in gender equity, scientific decentralization, and public engagement, fostering
+collaboration between academia, government, and local communities.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Assistant Professor, Universidad del Alba (2022–2023)
+  * Universidad del Alba
+  * Teaching in biochemistry, biology, histology, chemistry, and curriculum development.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant / Technical Staff, Laboratorio de Complejidad microbiana (2019–Present)
+  * Universidad de Antofagasta
+  * Worked on master thesis and actual  Logistics and planning of field and outreach activities for desert and salt flat microbiology; microorganism culture, molecular biology analysis, coordination of working meetings with external communities, report writing, presentation of work and articles with external communities, report writing, presentation of work and articles
+
+* Additional roles in teaching, molecular biology research, and clinical sampling (2014–2021).
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Astrobiology
+  * Biosignature detection and interpretation
+  * Habitability assessment of planetary environments
+  * Analogue environments (Atacama Desert)
+  * Microbial ecology of extreme environments
+* Laboratory techniques
+  * Cultivation of extremophile microorganisms
+  * Preparation of selective and enrichment media
+  * Environmental microbial sampling
+  * DNA extraction and PCR, qPCR
+  * Western blot
+  * Inmunofluorescence
+  
+* Spectroscopy
+  * Raman and Infrerred spectroscopy
+  * Reflectance spectroscopy
+  * Spectral data processing and interpretation
+* Exoplanet and planetary science
+  * Atmospheric biosignatures
+  * Reflectance spectra of planetary surfaces
+  * Planetary habitability analysis
+* Computational tools
+  * Python
+  * Scientific computing
+  * Data visualization
+  * Git and GitHub
+* Science communication
+  * Public outreach in astrobiology
+  * Educational workshops and talks
+  * Scientific communication for general audiences
 
 Publications
 ======
