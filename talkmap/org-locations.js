@@ -15,6 +15,11 @@ var addressPoints = [
     -72.9829073
   ],
   [
+    "Bacterial Metabolisms: A New Frontier in Biosignatures Detection<br />SOCHIAS Meeting; Arica, Chile",
+    -18.4785288,
+    -70.3211394
+  ],
+  [
     "COMUNIC\u00c1NDONOS: Secretos de las ciencias extremas.Laboratorio Virtual de Comunicaci\u00f3n y Lenguaje<br />IV ENCUENTRO INTERNACIONAL DE LA RED IBEROAMERICANA DE ESTUDIOS INTERCULTURALES E INTERDISCIPLINARIOS NODO CHILE; Online, Chile",
     -33.4395505,
     -70.6511137
@@ -33,6 +38,16 @@ var addressPoints = [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
+  ],
+  [
+    "The 2022 Census of the Chilean Astronomical Community: Unveiling Diversity, Progress, and Challenges<br />International Astronomical Union General Assembly; Cape Town, South Africa",
+    -33.9288301,
+    18.4172197
+  ],
+  [
+    "Exploring New Frontiers: Extremophiles in the Detection of Biosignatures \u2013 From Bacteria to Exoplanets<br />International Astronomical Union General Assembly; Cape Town, South Africa",
+    -33.9288301,
+    18.4172197
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
