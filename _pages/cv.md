@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-Download CV
-======
-* Download the short CV: /files/Valeska_Molina_CV.pdf
+
+* [Download a short version of my CV (PDF)](/files/Valeska_Molina_CV.pdf)
 
 Education
 ======
