@@ -14,6 +14,7 @@ Education
 ======
 * Ph.D(c) in Astronomy and Planetary Science, Universidad de Atacama, Copiapó, Chile (in progress)
 * M.S. in Astronomy, major in Astrobiology, Universidad de Antofagasta, Antofagasta, Chile, 2022
+* Diploma in Science Communication, Universidad de Antofagasta, Antofagasta, Chile 2021
 * B.S. in Biochemistry, Pontificia Universidad Católica de Chile, Santiago, 2016
 
 Work experience
