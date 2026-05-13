@@ -89,4 +89,21 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+* Scientific community service
+  * Member of the Chilean Astronomical Society (SOCHIAS)
+  * Member of the International Society for Microbial Ecology (ISME)
+  * Member of the International Society for the Study of the Origin of Life (ISSOL)
+  * Co-Funder of the Red Latinoamericana de Ciencias Planetarias y Exploración Espacial
+
+* Scientific leadership
+  * Co-Principal Investigator of a project funded by the ESO-Chile Joint Committee focused on dialogue between astronomy and the community of Toconao
+  * Organizer of Astrobiology Workshops in Chile with international participation
+
+* Science outreach and community engagement
+  * Development of educational activities and talks on astrobiology for schools
+  * Production of science communication materials including educational videos and outreach talks
+
+* Advocacy and inclusion in science
+  * Speaker on gender issues in astronomy at an International Astronomical Union meeting
+  * Initiatives for inclusive science communication including materials accessible to the deaf community
