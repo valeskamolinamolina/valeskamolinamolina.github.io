@@ -20,6 +20,11 @@ var addressPoints = [
     -70.3211394
   ],
   [
+    "From Bacteria to Exoplanets<br />AZ AstroBio 2024; Arizona, USA",
+    34.395342,
+    -111.763275
+  ],
+  [
     "COMUNIC\u00c1NDONOS: Secretos de las ciencias extremas.Laboratorio Virtual de Comunicaci\u00f3n y Lenguaje<br />IV ENCUENTRO INTERNACIONAL DE LA RED IBEROAMERICANA DE ESTUDIOS INTERCULTURALES E INTERDISCIPLINARIOS NODO CHILE; Online, Chile",
     -33.4395505,
     -70.6511137
@@ -35,11 +40,6 @@ var addressPoints = [
     -72.9829073
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
-  ],
-  [
     "The 2022 Census of the Chilean Astronomical Community: Unveiling Diversity, Progress, and Challenges<br />International Astronomical Union General Assembly; Cape Town, South Africa",
     -33.9288301,
     18.4172197
@@ -50,14 +50,9 @@ var addressPoints = [
     18.4172197
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "From Bacteria to Exoplanets: A Pioneering Approach to Biosignature Detection<br />International Society for Microbial Ecology (ISME); Cape Town, South Africa",
+    -33.9288301,
+    18.4172197
   ],
   [
     "Extremophile microorganisms: a pioneering approach to biosignature detection<br />Origins 2023; Quito, Ecuador",
