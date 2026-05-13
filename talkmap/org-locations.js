@@ -48,5 +48,10 @@ var addressPoints = [
     "Extremophile microorganisms: a pioneering approach to biosignature detection<br />Origins 2023; Quito, Ecuador",
     -0.2201641,
     -78.5123274
+  ],
+  [
+    "Exploring New Frontiers: Extremophiles in the detection of Biosignatures<br />Workshop CeBiB; Santiago, Chile",
+    -33.4376995,
+    -70.6510671
   ]
 ];
